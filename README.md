@@ -1,3 +1,7 @@
+# 头像定制
+- 用户将自己的个人头像上传后，可借助 Stable Diffusion 模型进行训练，并生成一款拥有不同风格的个人头像。
+
+
 # Photoshot
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/photoshot_ai.svg?style=social&label=Follow%20%40photoshot_ai)](https://twitter.com/photoshot_ai)
